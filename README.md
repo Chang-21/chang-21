@@ -3,6 +3,7 @@
 <img align="right" alt="coding iamge" width= 400px hight=400px src = "https://www.freepik.com/free-vector/organic-flat-gamer-room-illustration_13430357.htm#page=2&query=coding%20image%20animator&position=10&from_view=search&track=ais&uuid=1c856aae-2899-40fa-94a8-3422300295e1"/>
 <p align="left"> <a href="https://twitter.com/changgatdet" target="blank"><img src="https://img.shields.io/twitter/follow/changgatdet?logo=twitter&style=for-the-badge" alt="changgatdet" /></a> </p>
 - 🌱 I’m currently learning **React js**
+
 - 📫 How to reach me **changkuoth80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
